@@ -2,7 +2,7 @@
 
 *Student Information*
 
-Name: RUGENZI PRINCE LEWIS
+Name: RUGENZI PRINCE LEWIS.
 
 Student ID:29074
 
@@ -10,7 +10,7 @@ Course: Database Development with PL/SQL (INSY 8311)
 
 
 
-** Assignment Overview**
+**Assignment Overview**
 
 This assignment focuses on practical skills in Oracle Multitenant Architecture, specifically managing Pluggable Databases (PDBs). The tasks include creating and deleting PDBs, creating users inside a PDB, and documenting the process professionally.
 
@@ -37,7 +37,7 @@ le_pdb_29074
 **Screenshot.**
 
 <img width="614" height="85" alt="PLUG_CREATION (1)" src="https://github.com/user-attachments/assets/976bf4fb-51f5-48fe-bcf2-ce591b197ec4" />
-<img width="614" height="85" alt="PLUG_CREATION (1)" src="https://github.com/user-attachments/assets/976bf4fb-51f5-48fe-bcf2-ce591b197ec4" />
+
 
 
  User Created Inside PDB
@@ -46,7 +46,6 @@ lewis_plsqlauca_29074
 
 **Screenshot.**
 
-<img width="439" height="89" alt="USER CREATION" src="https://github.com/user-attachments/assets/85d3799f-18a2-41a2-ae28-3bd867a6fdd9" />
 <img width="439" height="89" alt="USER CREATION" src="https://github.com/user-attachments/assets/85d3799f-18a2-41a2-ae28-3bd867a6fdd9" />
 
 
@@ -65,7 +64,6 @@ le_to_delete_pdb_29074
 
 **Screenshot.**
 
-<img width="476" height="48" alt="DROP PDB" src="https://github.com/user-attachments/assets/eaaa2f2d-30df-41ef-ab32-32d215df2cdb" />
 <img width="476" height="48" alt="DROP PDB" src="https://github.com/user-attachments/assets/eaaa2f2d-30df-41ef-ab32-32d215df2cdb" />
 
 
@@ -96,7 +94,7 @@ The dashboard displays:
 ## Screenshots.
 
 <img width="956" height="419" alt="OEM DASH1 (1)" src="https://github.com/user-attachments/assets/75903c69-9221-4e07-bdcc-c870f358f921" />
-<img width="956" height="419" alt="OEM DASH1 (1)" src="https://github.com/user-attachments/assets/75903c69-9221-4e07-bdcc-c870f358f921" />
+
 
 
 All required evidence screenshots are included in the *screenshots/* folder:
