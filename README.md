@@ -60,6 +60,14 @@ A temporary PDB was created and then completely removed as required.
 
 ### Temporary PDB Name
 
+**Create Temporary PDB**
+
+<img width="656" height="66" alt="TEMPORARY PDB CREATION" src="https://github.com/user-attachments/assets/105e22a6-7406-4102-8f46-4d5544384f84" />
+
+
+
+**Delete Temporary PDB**
+
 le_to_delete_pdb_29074
 
 **Screenshot.**
@@ -95,6 +103,8 @@ The dashboard displays:
 
 <img width="956" height="419" alt="OEM DASH1 (1)" src="https://github.com/user-attachments/assets/75903c69-9221-4e07-bdcc-c870f358f921" />
 
+<img width="915" height="398" alt="OEM DASH 2" src="https://github.com/user-attachments/assets/cbcf01d5-c6e7-454d-9b62-debd97cb5a46" />
+
 
 
 All required evidence screenshots are included in the *screenshots/* folder:
@@ -126,6 +136,16 @@ The issue was resolved by switching to the *CDB$ROOT container* and connecting a
 Repository Name: oracle_pdb_ass_II_29074_lewis
 
 Visibility: Public
+
+## ✅ Final Checklist (Apply Before Submission)
+
+- [ ] Correct PDB names used  
+- [ ] User created inside the PDB  
+- [ ] Temporary PDB created and deleted  
+- [ ] OEM dashboard screenshot included  
+- [ ] GitHub repository is PUBLIC  
+- [ ] README is clear and professional  
+- [ ] Deadline respected
 
 
 
