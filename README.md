@@ -34,9 +34,22 @@ A new Pluggable Database was created following the required naming conventions.
 
 le_pdb_29074
 
+**Screenshot.**
+
+<img width="614" height="85" alt="PLUG_CREATION (1)" src="https://github.com/user-attachments/assets/976bf4fb-51f5-48fe-bcf2-ce591b197ec4" />
+<img width="614" height="85" alt="PLUG_CREATION (1)" src="https://github.com/user-attachments/assets/976bf4fb-51f5-48fe-bcf2-ce591b197ec4" />
+
+
  User Created Inside PDB
 
 lewis_plsqlauca_29074
+
+**Screenshot.**
+
+<img width="439" height="89" alt="USER CREATION" src="https://github.com/user-attachments/assets/85d3799f-18a2-41a2-ae28-3bd867a6fdd9" />
+<img width="439" height="89" alt="USER CREATION" src="https://github.com/user-attachments/assets/85d3799f-18a2-41a2-ae28-3bd867a6fdd9" />
+
+
 
 The PDB was successfully created, opened, and verified. The user account was also created and will be used for future coursework.
 
@@ -49,6 +62,12 @@ A temporary PDB was created and then completely removed as required.
 ### Temporary PDB Name
 
 le_to_delete_pdb_29074
+
+**Screenshot.**
+
+<img width="476" height="48" alt="DROP PDB" src="https://github.com/user-attachments/assets/eaaa2f2d-30df-41ef-ab32-32d215df2cdb" />
+<img width="476" height="48" alt="DROP PDB" src="https://github.com/user-attachments/assets/eaaa2f2d-30df-41ef-ab32-32d215df2cdb" />
+
 
 Steps completed:
 
@@ -74,9 +93,11 @@ The dashboard displays:
   
 * User information
 
+## Screenshots.
 
+<img width="956" height="419" alt="OEM DASH1 (1)" src="https://github.com/user-attachments/assets/75903c69-9221-4e07-bdcc-c870f358f921" />
+<img width="956" height="419" alt="OEM DASH1 (1)" src="https://github.com/user-attachments/assets/75903c69-9221-4e07-bdcc-c870f358f921" />
 
-## Screenshots
 
 All required evidence screenshots are included in the *screenshots/* folder:
 
